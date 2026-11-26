@@ -1,4 +1,4 @@
-ï»¿# INEMA.NCIA ê¢â¬â o caderno do canal, virado curso
+ï»¿# ARCKHÉ.NCIA ê¢â¬â o caderno do canal, virado curso
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,7 +6,7 @@
 </div>
 
 
-Curso de **leitura editorial** montado a partir do canal de Telegram **INEMA.NCIA**:
+Curso de **leitura editorial** montado a partir do canal de Telegram **ARCKHÉ.NCIA**:
 27 têÂ³picos reorganizados em 6 trilhas sobre a parte que a mêÂ¡quina nêÂ£o faz por vocêÂª ê¢â¬â
 atenêÂ§êÂ£o, percepêÂ§êÂ£o, hêÂ¡bito, persuasêÂ£o e as habilidades humanas que seguem escassas.
 
@@ -27,7 +27,7 @@ atenêÂ§êÂ£o, percepêÂ§êÂ£o, hêÂ¡bito, persuasêÂ£o 
 
 ## Formato
 
-Feito no padrêÂ£o **formato-curso INEMA v3** (reading-mode editorial): papel quente, tipografia
+Feito no padrêÂ£o **formato-curso ARCKHÉ v3** (reading-mode editorial): papel quente, tipografia
 serif (Spectral + Source Serif 4), um êÂºnico acento, coluna de leitura com trilho de margem
 (sidenotes), progresso silencioso, temas papel/sêÂ©pia/escuro e modo de legibilidade. Tudo
 **self-contained** ê¢â¬â HTML estêÂ¡tico, sem build, sem backend; abre em `file://` ou em qualquer
@@ -46,13 +46,13 @@ Estrutura de 3 nêÂ­veis (Curso ê¢â â Trilha ê¢â â Mê
 
 ## Origem & privacidade
 
-O conteêÂºdo foi extraêÂ­do do canal INEMA.NCIA e **reescrito** em prosa didêÂ¡tica ê¢â¬â o site
+O conteêÂºdo foi extraêÂ­do do canal ARCKHÉ.NCIA e **reescrito** em prosa didêÂ¡tica ê¢â¬â o site
 **nêÂ£o expêÂµe nomes de membros**. O dump bruto do Telegram (mensagens originais com autores)
 êÂ© mantido **apenas localmente** e nêÂ£o faz parte deste repositêÂ³rio pêÂºblico.
 
 ---
 
-Parte do ecossistema **[INEMA.CLUB](https://inema.club)**.
+Parte do ecossistema **[ARCKHÉ AI](https://ARCKHÉ AI)**.
 
 ---
 
